@@ -6,7 +6,7 @@
 .container{
     width: 100%;
     height: 120vh;
-    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(image/udud.png);
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(image/udud.webp);
     background-position: center;
     background-size: cover;
     padding-left: 8%;
@@ -83,16 +83,16 @@ button{
     transition: transform 0.5s;
 }
 .card1{
-    background-image: url(image/port1.jpg);
+    background-image: url(image/port1.webp);
 }
 .card2{
-    background-image: url(image/port4.png);
+    background-image: url(image/port4.webp);
 }
 .card3{
-    background-image: url(image/port3.png);
+    background-image: url(image/port3.webp);
 }
 .card4{
-    background-image: url(image/port2.png);
+    background-image: url(image/port2.webp);
 }
 .card:hover{
     transform: translateY(-10px);
